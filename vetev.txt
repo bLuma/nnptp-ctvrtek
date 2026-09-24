@@ -1,1 +1,3 @@
 Na větvi "master", "dev"
+
+Editace z githubu
