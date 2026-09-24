@@ -2,3 +2,4 @@ Na větvi "master", "dev"
 
 Editace z githubu
 ...
+MOJE ZMĚNY
